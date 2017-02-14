@@ -1,6 +1,6 @@
 ---
 applications:
-- name: Jessie techtime site
+- name: jptechtime
   memory: 64M
   buildpack: staticfile_buildpack
   env:
