@@ -1,0 +1,7 @@
+---
+applications:
+- name: Jessie techtime site
+  memory: 64M
+  buildpack: staticfile-buildpack
+  env:
+    FORCE_HTTPS: true
